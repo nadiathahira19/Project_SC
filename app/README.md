@@ -138,7 +138,7 @@ Project ini dikembangkan oleh **Kelompok GreenFlag**:
 - M. Dimas Ardiansyah (220170176) – Project Manager
 - Nadya Raudathul Sofa (220170170) – System Analyst
 - Ragil Rachmad Gustillah (220170175) – UI/UX Designer
-- Nadia Thahira (220170152) – Quality Assurance & Documentation
+- Nadia Thahira (220170152) – Testing & Documentation
 - Muhammad Iqbal (220170149) – Full-Stack Developer
 
 ---
